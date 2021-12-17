@@ -1,4 +1,6 @@
-#cris
+#Cristina
+#Python
+
 """
 Esto funciona, pero hay algo mal. ¿Qué es? (1 pt)
 """
