@@ -1,3 +1,5 @@
+#Cristina
+#Python
 """
 Este programa no funciona bien. ¿Por qué? (1 pt)
 """
