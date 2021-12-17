@@ -1,3 +1,6 @@
+#Cristina
+#Python
+
 """
 ¿Qué tres cosas están mal en este código? (3 pts)
 """
