@@ -1,6 +1,9 @@
-#cris
-#dona un nombre i doirà si es positiu,negatiu o cero 
+#Cristina
+#Python
 
+"""
+dona un nombre i doirà si es positiu,negatiu o cero 
+"""
 x = float(input("x= "))
 if x > 0:
     print("x es positivo.")
