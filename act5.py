@@ -1,6 +1,9 @@
- 
-#cristina
-#hi havia dos errors i s¡han hagut de corretgir
+#Cristina
+#Python
+
+"""
+hi havia dos errors i s¡han hagut de corretgir
+"""
 
 x = float(input("x= "))
 if x >= 0:
