@@ -1,3 +1,6 @@
+#Cristina
+#Python
+
 """
 Hay cuatro errores en este código. Identifícalos. (4 pts)
 """
