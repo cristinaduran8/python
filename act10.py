@@ -1,6 +1,23 @@
  #Cristina
  #Python
 
+ """
+ Observa el siguiente código. Adivina lo que crees que producirá y escríbelo. Luego, ejecútalo y observa si estabas en lo cierto. 
+ """
+ """
+ CREC QUE POSSARÀ:
+True
+False
+True
+True
+True
+False
+False
+True
+False
+ """
+ 
+ 
 x = 5
 y = 10
 z = 10
