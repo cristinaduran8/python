@@ -11,7 +11,7 @@ Sortida de valors: “màxim: 4, mínim: 1, variat: 3
 
 """
 
-a = [5, 37, 4, 2, 10, 4, 6, 4, 7, 32, 9, 20]
+a = [6, 34, 1, 22, 13, 23, 56, 2, 4, 39, 9, 21]
 
 print("Aquest és el recomte de la temperatura")
 print(a)
